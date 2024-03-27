@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>História do Burger King</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+    }
+    
+    header {
+      background-color: #007a33;
+      color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    
+    h2 {
+      color: #007a33;
+    }
+    
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>História do Burger King</h1>
+  </header>
+  <main>
+    <h2>1954 - Fundação</h2>
+    <p>O Burger King foi fundado em 1954 por James McLamore e David Edgerton em Miami, Flórida. Eles abriram o primeiro restaurante com o nome "Insta-Burger King", servindo hambúrgueres grelhados.</p>
+    
+    <h2>1957 - O Whopper</h2>
+    <p>Em 1957, o Burger King introduziu seu sanduíche mais famoso, o Whopper, que se tornou um dos itens mais populares do menu e um símbolo da marca.</p>
+    
+    <h2>1967 - Expansão internacional</h2>
+    <p>No final da década de 1960, o Burger King começou a se expandir internacionalmente, abrindo restaurantes no Canadá e em vários países europeus e asiáticos.</p>
+    
+    <h2>1975 - Aquisição pela Pillsbury</h2>
+    <p>Em 1975, a Pillsbury Company, uma gigante da indústria de alimentos, adquiriu o Burger King. Isso levou a uma rápida expansão da cadeia nos anos seguintes, com novos produtos e campanhas publicitárias.</p>
+    
+    <h2>1989 - Lançamento do BK Kids Club</h2>
+    <p>Em 1989, o Burger King lançou o BK Kids Club, um programa de marketing destinado a crianças, com personagens fictícios e brinquedos incluídos nas refeições infantis.</p>
+    
+    <h2>2002 - Venda para a 3G Capital</h2>
+    <p>Em 2002, o Burger King foi vendido para a 3G Capital, uma empresa de investimentos. Isso marcou uma nova fase para a empresa, com foco em expansão global e inovação de produtos.</p>
+    
+    <h2>Atualmente</h2>
+    <p>Hoje, o Burger King é uma das maiores redes de fast food do mundo, com milhares de restaurantes em mais de 100 países ao redor do globo. Continua a lançar novos produtos e campanhas publicitárias para atrair clientes de todas as idades.</p>
+  </main>
+</body>
+</html>
